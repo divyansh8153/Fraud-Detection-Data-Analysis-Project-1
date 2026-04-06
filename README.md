@@ -51,6 +51,7 @@ Created interactive dashboard showing:
 ## Author
 
 Anshika Singh
+
 Aspiring Data Analyst
 
 ## Dashboard Preview
